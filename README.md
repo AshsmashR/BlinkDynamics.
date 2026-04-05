@@ -35,7 +35,5 @@ This repository serves as an interpretable baseline for blink-based fatigue anal
 
 ---
 
-## About (GitHub one-liner)
 
-Blink-based drowsiness detection using EAR, PERCLOS, and temporal eye dynamics.
 
